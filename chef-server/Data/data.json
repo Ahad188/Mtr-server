@@ -1,0 +1,93 @@
+[
+     {
+       "id": 1,
+       "chefName": "Sanjeev Kapoor",
+       "experience": 30,
+       "numberOfRecipes": 10000,
+       "likes": 5000000,
+       "chefPicture": "https://example.com/sanjeev-kapoor.jpg",
+       "specialRecipes": [
+         "Butter Chicken",
+         "Aloo Gobi",
+         "Rajma Chawal"
+       ]
+     },
+     {
+       "id": 2,
+       "chefName": "Vikas Khanna",
+       "experience": 20,
+       "numberOfRecipes": 8000,
+       "likes": 2500000,
+       "chefPicture": "https://example.com/vikas-khanna.jpg",
+       "specialRecipes": [
+         "Rajma Chawal",
+         "Baingan Bharta",
+         "Palak Paneer"
+       ]
+     },
+     {
+       "id": 3,
+       "chefName": "Ranveer Brar",
+       "experience": 15,
+       "numberOfRecipes": 5000,
+       "likes": 2000000,
+       "chefPicture": "https://example.com/ranveer-brar.jpg",
+       "specialRecipes": [
+         "Bhutte ka Kees",
+         "Tawa Pulao",
+         "Paneer Tikka Masala"
+       ]
+     },
+     {
+       "id": 4,
+       "chefName": "Madhur Jaffrey",
+       "experience": 40,
+       "numberOfRecipes": 3000,
+       "likes": 1500000,
+       "chefPicture": "https://example.com/madhur-jaffrey.jpg",
+       "specialRecipes": [
+         "Chicken Tikka Masala",
+         "Biryani",
+         "Saag Paneer"
+       ]
+     },
+     {
+       "id": 5,
+       "chefName": "Saransh Goila",
+       "experience": 10,
+       "numberOfRecipes": 2000,
+       "likes": 1000000,
+       "chefPicture": "https://example.com/saransh-goila.jpg",
+       "specialRecipes": [
+         "Keema Biryani",
+         "Murg Makhani",
+         "Mutton Rogan Josh"
+       ]
+     },
+     {
+       "id": 6,
+       "chefName": "Atul Kochhar",
+       "experience": 25,
+       "numberOfRecipes": 4000,
+       "likes": 1800000,
+       "chefPicture": "https://example.com/atul-kochhar.jpg",
+       "specialRecipes": [
+         "Paneer Tikka Masala",
+         "Butter Chicken",
+         "Rogan Josh"
+       ]
+     },
+     {
+       "id": 7,
+       "chefName": "Kunal Kapur",
+       "experience": 12,
+       "numberOfRecipes": 2500,
+       "likes": 1200000,
+       "chefPicture": "https://example.com/kunal-kapur.jpg",
+       "specialRecipes": [
+         "Baingan Bharta",
+         "Paneer Tikka Masala",
+         "Mutton Korma"
+       ]
+     }
+   ]
