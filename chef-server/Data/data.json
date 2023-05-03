@@ -5,7 +5,7 @@
        "experience": 30,
        "numberOfRecipes": 10000,
        "likes": 5000000,
-       "chefPicture": "https://example.com/sanjeev-kapoor.jpg",
+       "chefPicture": "https://img.freepik.com/free-photo/happy-young-cook-uniform-holding-salad_171337-5343.jpg",
        "specialRecipes": [
          "Butter Chicken",
          "Aloo Gobi",
@@ -18,7 +18,7 @@
        "experience": 20,
        "numberOfRecipes": 8000,
        "likes": 2500000,
-       "chefPicture": "https://example.com/vikas-khanna.jpg",
+       "chefPicture": "https://st.depositphotos.com/1518767/4293/i/450/depositphotos_42930411-stock-photo-concentrated-male-chef-garnishing-food.jpg",
        "specialRecipes": [
          "Rajma Chawal",
          "Baingan Bharta",
@@ -31,7 +31,7 @@
        "experience": 15,
        "numberOfRecipes": 5000,
        "likes": 2000000,
-       "chefPicture": "https://example.com/ranveer-brar.jpg",
+       "chefPicture": "https://st.depositphotos.com/2117297/2681/i/450/depositphotos_26810715-stock-photo-smiling-chef.jpg",
        "specialRecipes": [
          "Bhutte ka Kees",
          "Tawa Pulao",
@@ -44,7 +44,7 @@
        "experience": 40,
        "numberOfRecipes": 3000,
        "likes": 1500000,
-       "chefPicture": "https://example.com/madhur-jaffrey.jpg",
+       "chefPicture": "https://st.depositphotos.com/1049680/1878/i/450/depositphotos_18784157-stock-photo-male-chef-showing-thumbs-up.jpg",
        "specialRecipes": [
          "Chicken Tikka Masala",
          "Biryani",
@@ -57,7 +57,7 @@
        "experience": 10,
        "numberOfRecipes": 2000,
        "likes": 1000000,
-       "chefPicture": "https://example.com/saransh-goila.jpg",
+       "chefPicture": "https://img.freepik.com/free-photo/happy-young-cook-uniform-holding-salad_171337-5343.jpg",
        "specialRecipes": [
          "Keema Biryani",
          "Murg Makhani",
@@ -70,7 +70,7 @@
        "experience": 25,
        "numberOfRecipes": 4000,
        "likes": 1800000,
-       "chefPicture": "https://example.com/atul-kochhar.jpg",
+       "chefPicture": "https://img.freepik.com/free-photo/happy-young-cook-uniform-holding-salad_171337-5343.jpg",
        "specialRecipes": [
          "Paneer Tikka Masala",
          "Butter Chicken",
@@ -83,11 +83,54 @@
        "experience": 12,
        "numberOfRecipes": 2500,
        "likes": 1200000,
-       "chefPicture": "https://example.com/kunal-kapur.jpg",
+       "chefPicture": "https://img.freepik.com/free-photo/happy-young-cook-uniform-holding-salad_171337-5343.jpg",
        "specialRecipes": [
          "Baingan Bharta",
          "Paneer Tikka Masala",
          "Mutton Korma"
        ]
-     }
+     },
+     {
+          "id": 8,
+          "chefName": "Saransh Goila",
+          "experience": 10,
+          "numberOfRecipes": 2000,
+          "likes": 1000000,
+          "chefPicture": "https://img.freepik.com/free-photo/happy-young-cook-uniform-holding-salad_171337-5343.jpg",
+          "specialRecipes": [
+            "Keema Biryani",
+            "Murg Makhani",
+            "Mutton Rogan Josh"
+          ]
+           
+        },
+
+        {
+          "id": 9,
+          "chefName": "Madhur Jaffrey",
+          "experience": 40,
+          "numberOfRecipes": 3000,
+          "likes": 1500000,
+          "chefPicture": "https://img.freepik.com/free-photo/happy-young-cook-uniform-holding-salad_171337-5343.jpg",
+          "specialRecipes": [
+            "Chicken Tikka Masala",
+            "Biryani",
+            "Saag Paneer"
+          ]
+           
+        },
+        {
+          "id": 10,
+          "chefName": "Ranveer Brar",
+          "experience": 15,
+          "numberOfRecipes": 5000,
+          "likes": 2000000,
+          "chefPicture": "https://static5.depositphotos.com/1003434/514/i/450/depositphotos_5147838-stock-photo-attractive-smiling-cook.jpg",
+          "specialRecipes": [
+            "Bhutte ka Kees",
+            "Tawa Pulao",
+            "Paneer Tikka Masala"
+          ]
+           
+        }
    ]

@@ -1,0 +1,152 @@
+[
+  {
+    "strMeal": "Baingan Bharta",
+    "strMealThumb": "https://www.themealdb.com/images/media/meals/urtpqw1487341253.jpg",
+    "id": 1
+  },
+  {
+    "strMeal": "Chicken Handi",
+    "strMealThumb": "https://www.themealdb.com/images/media/meals/wyxwsp1486979827.jpg",
+    "id": 1
+  },
+  {
+    "strMeal": "Dal fry",
+    "strMealThumb": "https://www.themealdb.com/images/media/meals/wuxrtu1483564410.jpg",
+    "id": 1
+  },
+  {
+    "strMeal": "Kidney Bean Curry",
+    "strMealThumb": "https://www.themealdb.com/images/media/meals/sywrsu1511463066.jpg",
+    "id": 2
+  },
+  {
+    "strMeal": "Lamb Biryani",
+    "strMealThumb": "https://www.themealdb.com/images/media/meals/xrttsx1487339558.jpg",
+    "id": 2
+  },
+  {
+    "strMeal": "Lamb Rogan josh",
+    "strMealThumb": "https://www.themealdb.com/images/media/meals/vvstvq1487342592.jpg",
+    "id": 2
+  },
+  {
+    "strMeal": "Matar Paneer",
+    "strMealThumb": "https://www.themealdb.com/images/media/meals/xxpqsy1511452222.jpg",
+    "id": 3
+  },
+  {
+    "strMeal": "Nutty Chicken Curry",
+    "strMealThumb": "https://www.themealdb.com/images/media/meals/yxsurp1511304301.jpg",
+    "id": 3
+  },
+  {
+    "strMeal": "Recheado Masala Fish",
+    "strMealThumb": "https://www.themealdb.com/images/media/meals/uwxusv1487344500.jpg",
+    "id": 3
+  },
+  {
+    "strMeal": "Smoked Haddock Kedgeree",
+    "strMealThumb": "https://www.themealdb.com/images/media/meals/1550441275.jpg",
+    "id": 4
+  },
+  {
+     "strMeal": "Baingan Bharta",
+     "strMealThumb": "https://www.themealdb.com/images/media/meals/urtpqw1487341253.jpg",
+     "id": 4
+   },
+   {
+     "strMeal": "Chicken Handi",
+     "strMealThumb": "https://www.themealdb.com/images/media/meals/wyxwsp1486979827.jpg",
+     "id": 4
+   },
+   {
+     "strMeal": "Dal fry",
+     "strMealThumb": "https://www.themealdb.com/images/media/meals/wuxrtu1483564410.jpg",
+     "id": 5
+   },
+   {
+     "strMeal": "Kidney Bean Curry",
+     "strMealThumb": "https://www.themealdb.com/images/media/meals/sywrsu1511463066.jpg",
+     "id": 5
+   },
+   {
+     "strMeal": "Lamb Biryani",
+     "strMealThumb": "https://www.themealdb.com/images/media/meals/xrttsx1487339558.jpg",
+     "id": 5
+   },
+   {
+     "strMeal": "Lamb Rogan josh",
+     "strMealThumb": "https://www.themealdb.com/images/media/meals/vvstvq1487342592.jpg",
+     "id": 6
+   },
+   {
+     "strMeal": "Matar Paneer",
+     "strMealThumb": "https://www.themealdb.com/images/media/meals/xxpqsy1511452222.jpg",
+     "id": 6
+   },
+   {
+     "strMeal": "Nutty Chicken Curry",
+     "strMealThumb": "https://www.themealdb.com/images/media/meals/yxsurp1511304301.jpg",
+     "id": 6
+   },
+   {
+     "strMeal": "Recheado Masala Fish",
+     "strMealThumb": "https://www.themealdb.com/images/media/meals/uwxusv1487344500.jpg",
+     "id": 7
+   },
+   {
+     "strMeal": "Smoked Haddock Kedgeree",
+     "strMealThumb": "https://www.themealdb.com/images/media/meals/1550441275.jpg",
+     "id": 7
+   },
+   {
+      "strMeal": "Baingan Bharta",
+      "strMealThumb": "https://www.themealdb.com/images/media/meals/urtpqw1487341253.jpg",
+      "id": 7
+    },
+    {
+     "strMeal": "Chicken Handi",
+     "strMealThumb": "https://www.themealdb.com/images/media/meals/wyxwsp1486979827.jpg",
+     "id": 8
+   },
+   {
+     "strMeal": "Kidney Bean Curry",
+     "strMealThumb": "https://www.themealdb.com/images/media/meals/sywrsu1511463066.jpg",
+     "id": 8
+   },
+   {
+     "strMeal": "Matar Paneer",
+     "strMealThumb": "https://www.themealdb.com/images/media/meals/xxpqsy1511452222.jpg",
+     "id": 8
+   },
+   {
+     "strMeal": "Matar Paneer",
+     "strMealThumb": "https://www.themealdb.com/images/media/meals/xxpqsy1511452222.jpg",
+     "id": 9
+   },
+   {
+     "strMeal": "Baingan Bharta",
+     "strMealThumb": "https://www.themealdb.com/images/media/meals/urtpqw1487341253.jpg",
+     "id": 9
+   },
+   {
+     "strMeal": "Dal fry",
+     "strMealThumb": "https://www.themealdb.com/images/media/meals/wuxrtu1483564410.jpg",
+     "id": 9
+   },
+   {
+     "strMeal": "Dal fry",
+     "strMealThumb": "https://www.themealdb.com/images/media/meals/wuxrtu1483564410.jpg",
+     "id": 10
+   },
+   {
+     "strMeal": "Baingan Bharta",
+     "strMealThumb": "https://www.themealdb.com/images/media/meals/urtpqw1487341253.jpg",
+     "id": 10
+   },
+   {
+     "strMeal": "Lamb Biryani",
+     "strMealThumb": "https://www.themealdb.com/images/media/meals/xrttsx1487339558.jpg",
+     "id": 10
+   }
+]
