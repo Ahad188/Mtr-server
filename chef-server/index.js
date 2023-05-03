@@ -27,8 +27,6 @@ app.get('/food',(req,res)=>{
      res.send(food)
 })
 
-
-
  app.listen(port,()=>{
       console.log(`Example app listening on port ${port}`)
  })
